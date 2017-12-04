@@ -1,11 +1,9 @@
 <p align="center">
-  <img width="460" height="300" src="/assets/sandman.jpeg">
+  <img src="https://github.com/mgechev/blund/blob/master/assets/sandman.jpeg?raw=true">
 </p>
 <br>
 
-# John Blund 😴
-
-Sleep function. Convenient for unit testing and general purpose usage.
+Sleep function 😴. Convenient for unit testing and general purpose usage.
 
 # Why "John Blund"?
 
@@ -14,7 +12,7 @@ That's the Swedish translation of the Western and North European folklore charac
 # How to use?
 
 ```
-npm i blund --save-dev
+npm i blund --save
 ```
 
 ```ts
