@@ -1,0 +1,31 @@
+{
+  "name": "blund",
+  "version": "1.0.0",
+  "description": "A sleep function. Main purpose is testing.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && cp README.md package.json dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgechev/blund.git"
+  },
+  "keywords": [
+    "tick",
+    "async",
+    "tests",
+    "promise",
+    "micro-task",
+    "sleep",
+    "task"
+  ],
+  "author": "Minko Gechev <mgechev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgechev/blund/issues"
+  },
+  "homepage": "https://github.com/mgechev/blund#readme",
+  "devDependencies": {
+    "typescript": "^2.6.1"
+  }
+}
